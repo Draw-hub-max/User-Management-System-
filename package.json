@@ -1,0 +1,26 @@
+{
+  "name": "user-management-system-",
+  "version": "1.0.0",
+  "description": "Handles user registration, login, and profile updates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Draw-hub-max/User-Management-System-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Draw-hub-max/User-Management-System-/issues"
+  },
+  "homepage": "https://github.com/Draw-hub-max/User-Management-System-#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "pg": "^8.13.3"
+  },
+  "devDependencies": {}
+}
